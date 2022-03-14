@@ -1,0 +1,1 @@
+Remove spacing in a string
